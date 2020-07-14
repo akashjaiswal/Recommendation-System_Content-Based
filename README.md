@@ -11,4 +11,4 @@ The model should recommend items relevant to this user. To do so, you must first
 
 Image of a matrix showing a user and apps that may be recommended
 
-![Alt text](https://developers.google.com/machine-learning/recommendation/images/Matrix1.svg)
+https://developers.google.com/machine-learning/recommendation/images/Matrix1.svg
